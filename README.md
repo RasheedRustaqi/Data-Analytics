@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Rasheed Ahmad Rustaqi
 
-**Data Analyst | CRM & Digital Marketing Specialist | MBA**
+**Data Analyst | CRM & Social Media Marketer | MBA**
 
 A performance-driven professional with 3+ years of experience transforming business operations through **data analytics**, **CRM optimization**, and **targeted digital marketing strategies**. Adept at turning raw data into actionable insights, building high-performing campaigns, and improving organizational efficiency using tools like **Excel, MySQL, Power BI, and Meta Ads**.
 
@@ -60,18 +60,15 @@ Sharda University, Uttar Pradesh, India — *GPA: 8.7 / 10.0*
 ### 📁 [HR Analytics Dashboard – SQL & Power BI](https://github.com/RasheedRustaqi/HR-Analytics-Dashboard-SQL-Power-BI)  
 Built an HR dashboard to explore workforce diversity, gender balance, and retention metrics using SQL and Power BI.
 
-### 📁 [Sales Performance Analysis – MySQL Project](https://github.com/RasheedRustaqi/MySQL_-Project-)  
-Designed complex SQL queries to uncover insights in retail data, identify sales trends, and provide KPI tracking.
+### 📁 [Top-Selling Items Analysis – Restaurant Sales](https://github.com/RasheedRustaqi/Restaurant-Project) 
+Used SQL to find the most sold items and highest revenue-generating products.
+
+### 📁 [ Layoff Data Cleaning Project – SQL](https://github.com/RasheedRustaqi/Layoff-.git) 
+Cleaned a tech layoffs dataset using MySQL by removing duplicates, fixing nulls, and standardizing data for analysis.
 
 ---
 
-## 📄 Resume
 
-📥 [Download My Resume (Dropbox PDF)](https://www.dropbox.com/scl/fi/3xbfhkmevk3pjbd386y27/Rasheed-A.-Rustaqi.pdf?rlkey=hmxaiximmhht8azgj2ca4eqhu&st=n331ymwi&dl=1)
-
-*(Dropbox direct download link)*
-
----
 
 ## 🔗 Connect With Me
 
